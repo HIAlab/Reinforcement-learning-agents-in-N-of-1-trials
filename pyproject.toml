@@ -1,0 +1,30 @@
+[project]
+name = "nof1rl4endo"
+version = "0.0.1"
+description = ""
+dependencies = [
+    'numpy',
+    'pandas',
+    'seaborn',
+    'scikit-learn',
+    'arviz',
+    'pymc',
+    'tqdm',
+    'panel',
+    'hvplot',
+    'jsonpickle',
+]
+
+[project.optional-dependencies]
+dev = [
+    'pytest',
+    'nbmake',
+    'black',
+]
+
+[build-system]
+requires = ["setuptools >= 61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
