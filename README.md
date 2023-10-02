@@ -1,7 +1,7 @@
 
 This is the code for the design, evaluation and implementation of contextual bandits to learn optimal physical exercises regimes that decrease pain in endometriosis patients.
 
-For more information, see our publication [TODO LINK]().
+For more information, see our [arxiv submission](https://arxiv.org/abs/2309.14156).
 
 ## HTML Output
 If you do not want to setup the python environment, `envaluation.html` still allows an interactive view of the intervention allocations in the browser.
