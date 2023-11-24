@@ -4,7 +4,7 @@ This is the code for the design, evaluation and implementation of contextual ban
 For more information, see our [arxiv submission](https://arxiv.org/abs/2309.14156).
 
 ## HTML Output
-If you do not want to setup the python environment, `envaluation.html` still allows an interactive view of the intervention allocations in the browser.
+If you do not want to setup the python environment, `evaluation.html` still allows an interactive view of the intervention allocations in the browser.
 
 ## Setup
 To run the jupyter notebook, you can install the necessary dependencies with:
